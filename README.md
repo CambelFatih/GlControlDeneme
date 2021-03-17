@@ -1,0 +1,2 @@
+# GlControlDeneme
+use GlControl object 
