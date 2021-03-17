@@ -1,0 +1,11 @@
+c:\users\fatih furkan çambel\documents\visual studio 2015\Projects\GLControlDeneme\GLControlDeneme\bin\Debug\GLControlDeneme.exe.config
+c:\users\fatih furkan çambel\documents\visual studio 2015\Projects\GLControlDeneme\GLControlDeneme\bin\Debug\GLControlDeneme.exe
+c:\users\fatih furkan çambel\documents\visual studio 2015\Projects\GLControlDeneme\GLControlDeneme\bin\Debug\GLControlDeneme.pdb
+c:\users\fatih furkan çambel\documents\visual studio 2015\Projects\GLControlDeneme\GLControlDeneme\obj\Debug\GLControlDeneme.Form1.resources
+c:\users\fatih furkan çambel\documents\visual studio 2015\Projects\GLControlDeneme\GLControlDeneme\obj\Debug\GLControlDeneme.Properties.Resources.resources
+c:\users\fatih furkan çambel\documents\visual studio 2015\Projects\GLControlDeneme\GLControlDeneme\obj\Debug\GLControlDeneme.csproj.GenerateResource.Cache
+c:\users\fatih furkan çambel\documents\visual studio 2015\Projects\GLControlDeneme\GLControlDeneme\obj\Debug\GLControlDeneme.exe
+c:\users\fatih furkan çambel\documents\visual studio 2015\Projects\GLControlDeneme\GLControlDeneme\obj\Debug\GLControlDeneme.pdb
+C:\Users\Fatih Furkan Çambel\Documents\Visual Studio 2015\Projects\GLControlDeneme\GLControlDeneme\bin\Debug\OpenTK.dll
+C:\Users\Fatih Furkan Çambel\Documents\Visual Studio 2015\Projects\GLControlDeneme\GLControlDeneme\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Fatih Furkan Çambel\Documents\Visual Studio 2015\Projects\GLControlDeneme\GLControlDeneme\obj\Debug\GLControlDeneme.csprojResolveAssemblyReference.cache
